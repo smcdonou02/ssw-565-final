@@ -1,0 +1,501 @@
+﻿subject,owner_name,owner_email,owner_username,url
+[CI] Unblock the gate,Elod Illes,elod.illes@est.tech,elod.illes,https://review.opendev.org/c/openstack/cinder/+/935807
+[kolla] Transition 2023.1 Antelope to Unmaintained,Elod Illes,elod.illes@est.tech,elod.illes,https://review.opendev.org/c/openstack/releases/+/934490
+Execute run methods in parallel,Amir Nikpour,amnik.free@gmail.com,amnik,https://review.opendev.org/c/openstack/ovsdbapp/+/936327
+Remove deprecated code,Italo Lemos,Italo.doRegoLemos@windriver.com,idoregol,https://review.opendev.org/c/starlingx/gui/+/933908
+Support rebooting an instance with shares (compute manager part),ribaudr,rene.ribaud@gmail.com,uggla,https://review.opendev.org/c/openstack/nova/+/854824
+Move winstackers Unmaintained series to End of Life,Elod Illes,elod.illes@est.tech,elod.illes,https://review.opendev.org/c/openstack/releases/+/936376
+Fix 2089792: designate's rootwrap.conf renamed,para sitid,parasitid@yahoo.fr,parasitid,https://review.opendev.org/c/openstack/kolla/+/936413
+api: Add response body schemas for host aggregate actions API,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/nova/+/924584
+DNM: testing gate,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/cloudkitty/+/936408
+Move solum Unmaintained series to End of Life,Elod Illes,elod.illes@est.tech,elod.illes,https://review.opendev.org/c/openstack/releases/+/936374
+updated VAST driver documentation,Volodymyr Boiko,volodymyr.boiko@vastdata.com,fnn45,https://review.opendev.org/c/openstack/manila/+/935367
+api: Add response body schemas for host aggregate APIs,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/nova/+/924585
+Make OldestAsyncPendingTracker timestamp float,Chinemerem Chigbo,cchigbo@nvidia.com,chinemerem,https://review.opendev.org/c/openstack/swift/+/935822
+Move senlin Unmaintained series to End of Life,Elod Illes,elod.illes@est.tech,elod.illes,https://review.opendev.org/c/openstack/releases/+/936373
+Update docker/containerd versions for zun-compute,Dmitriy Rabotyagov,noonedeadpunk@gmail.com,noonedeadpunk,https://review.opendev.org/c/openstack/openstack-ansible-os_zun/+/936400
+Add Openabo Backup and Restore,Tae Park,Tae.Park@windriver.com,tpark,https://review.opendev.org/c/starlingx/ansible-playbooks/+/936412
+Move sahara Unmaintained series to End of Life,Elod Illes,elod.illes@est.tech,elod.illes,https://review.opendev.org/c/openstack/releases/+/936372
+api: Add response body schemas for extensions API,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/nova/+/924586
+s3api: add more MPU cross-compat tests,Alistair Coles,alistairncoles@gmail.com,acoles,https://review.opendev.org/c/openstack/swift/+/931187
+sq? test for weird statsd_client_source robustness,Clay Gerrard,clay.gerrard@gmail.com,clay-gerrard,https://review.opendev.org/c/openstack/swift/+/936387
+Enable projects pagination,Artem Goncharov,artem.goncharov@gmail.com,gtema,https://review.opendev.org/c/openstack/keystone/+/933598
+Upgrade magnum-cluster-api to 0.24.0,Jonathan Rosser,jonathan.rosser@rd.bbc.co.uk,jrosser,https://review.opendev.org/c/openstack/openstack-ansible-ops/+/936229
+mariadb: Switch to rsync sst_method on upgrade,Michal Nasiadka,mnasiadka@gmail.com,mnasiadka,https://review.opendev.org/c/openstack/kolla-ansible/+/928487
+mariadb: switch to use mariadb flavored commands,Michal Nasiadka,mnasiadka@gmail.com,mnasiadka,https://review.opendev.org/c/openstack/kolla-ansible/+/927039
+Add share_info parameter to reboot method for each driver (driver part),ribaudr,rene.ribaud@gmail.com,uggla,https://review.opendev.org/c/openstack/nova/+/854823
+mariadb: Disable wsrep_provider plugin,Michal Nasiadka,mnasiadka@gmail.com,mnasiadka,https://review.opendev.org/c/openstack/kolla-ansible/+/927096
+Fix typo in archive_deleted_rows script,huanhongda,hongda.xun@easystack.cn,huanhongda,https://review.opendev.org/c/openstack/openstack-helm/+/935850
+Add mirror-container-images role and job,James E. Blair,jim@acmegating.com,corvus,https://review.opendev.org/c/zuul/zuul-jobs/+/935574
+[WIP] Configuring tests for different themes,Jan Jasek,jjasek@redhat.com,janjasek,https://review.opendev.org/c/openstack/horizon/+/936377
+Enable TLS backend for designate,Magnus L├╢├╢f,magnus.loof@basalt.se,magnusloof,https://review.opendev.org/c/openstack/kolla-ansible/+/866524
+[SPEC] `Add Distributed Locking for Host Discovery`.,Serhii Ivanov,evasive.gyron@gmail.com,s3rj1k,https://review.opendev.org/c/openstack/nova-specs/+/936389
+Support prestage N release --for-sw-deploy on subclouds N-1 without USM,Cristian,cristian.mondo@windriver.com,cmondo,https://review.opendev.org/c/starlingx/distcloud/+/933674
+Update gate jobs as per the 2025.1 cycle testing runtime,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/octavia-tempest-plugin/+/935595
+Improve Cinder volume performance with tmpfs for image conversion,Misook Kim,misook.kim@samsung.com,misook,https://review.opendev.org/c/openstack/openstack-helm/+/936007
+WIP - defer step update on when applying an strategy,Raphael Lima,Raphael.Lima@windriver.com,rlima,https://review.opendev.org/c/starlingx/distcloud/+/936410
+Fix PowerFlex volume size mismatch with volume cache,"DongHun, Kim",bigheadzacky@gmail.com,donghunkimzack,https://review.opendev.org/c/openstack/cinder/+/935473
+Fix missing oslo.policy options,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/keystone/+/936386
+Bump K8s to v1.31,Vladimir Kozhukalov,kozhukalov@gmail.com,kozhukalov,https://review.opendev.org/c/openstack/openstack-helm/+/936382
+Use *-container-image roles,Vladimir Kozhukalov,kozhukalov@gmail.com,kozhukalov,https://review.opendev.org/c/openstack/loci/+/935839
+[WIP] Save ``configdrive`` in an auxiliary table,cid,cid@gr-oss.io,cidelight,https://review.opendev.org/c/openstack/ironic/+/933622
+Improve get_logger tests re. statsd prefix,Alistair Coles,alistairncoles@gmail.com,acoles,https://review.opendev.org/c/openstack/swift/+/936406
+Deprecation fixes.,cid,cid@gr-oss.io,cidelight,https://review.opendev.org/c/openstack/ironic/+/936411
+WIP: Allow vfio gpu support with Vendor-Specific VFIO framework,ribaudr,rene.ribaud@gmail.com,uggla,https://review.opendev.org/c/openstack/nova-specs/+/936407
+dr: Add option to customize base image,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/neutron-tempest-plugin/+/936044
+Split _ensure_ovn_network_link function,Jakub Libosvar,libosvar@redhat.com,jlibosva,https://review.opendev.org/c/openstack/ovn-bgp-agent/+/936409
+mpu: repeated completeUploads get unique timestamp offsets,Alistair Coles,alistairncoles@gmail.com,acoles,https://review.opendev.org/c/openstack/swift/+/936051
+Fix missing oslo.policy options,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/manila/+/936394
+Move murano Unmaintained series to End of Life,Elod Illes,elod.illes@est.tech,elod.illes,https://review.opendev.org/c/openstack/releases/+/936358
+Support ovn-bgp agent with DVR disabled,Jakub Libosvar,libosvar@redhat.com,jlibosva,https://review.opendev.org/c/openstack/ovn-bgp-agent/+/936397
+Remove FluxCD deprecated option from sysinv config,Igor Pires Soares,Igor.PiresSoares@windriver.com,ipiresso,https://review.opendev.org/c/starlingx/stx-puppet/+/936404
+Move kuryr Unmaintained series to End of Life,Elod Illes,elod.illes@est.tech,elod.illes,https://review.opendev.org/c/openstack/releases/+/936355
+Use platformdirs rather than appdirs,Thomas Goirand,thomas@goirand.fr,thomas-goirand,https://review.opendev.org/c/performa/os-faults/+/930293
+WIP object_versioning: only create one version of each .data file,Alistair Coles,alistairncoles@gmail.com,acoles,https://review.opendev.org/c/openstack/swift/+/936379
+Skyline: use an external object store (Swift) in the dashboard,Uwe J├ñger,uwe.jaeger@valiton.com,uwej711,https://review.opendev.org/c/openstack/kolla-ansible/+/916972
+Add iSCSI export support to the StorPool driver,Peter Penchev,openstack-dev@storpool.com,ppenchev,https://review.opendev.org/c/openstack/cinder/+/847536
+[Storage Virtualize family] Adding support for temporary volumegroup,Vrinda Dhakad,vrinda.dhakad@ibm.com,vdhakad,https://review.opendev.org/c/openstack/cinder/+/925450
+Testing bad microversions on v1/nodes/{uuid}/firmware,Adam McArthur,adam@mcaq.me,adamcarthur,https://review.opendev.org/c/openstack/ironic-tempest-plugin/+/936071
+Microversion Test Generator,Adam McArthur,adam@mcaq.me,adamcarthur,https://review.opendev.org/c/openstack/ironic-tempest-plugin/+/936293
+Fix missing oslo.policy options,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/glance/+/936393
+Testing bad microversions on v1/allocations,Adam McArthur,adam@mcaq.me,adamcarthur,https://review.opendev.org/c/openstack/ironic-tempest-plugin/+/935827
+Ensure server and backed volume are created in the same AZ,Liron Kuchlani,lkuchlan@redhat.com,lkuchlan,https://review.opendev.org/c/openstack/cinder-tempest-plugin/+/936356
+Fix missing oslo.policy options,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/nova/+/936392
+DNM - Test dependency on devstack-plugin-ceph bump to Squid,Luigi Toscano,ltoscano@redhat.com,ltoscano,https://review.opendev.org/c/openstack/cinder/+/936359
+api: Simplify parameter types,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/nova/+/936369
+api: Only run format checks on strings,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/nova/+/936368
+"api: Add new, simpler api_version decorator",Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/nova/+/936367
+api: Stop using wsgi.Controller.api_version to switch between API versions,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/nova/+/936366
+api: Adjust validation helpers for a single-method future,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/nova/+/936365
+api: Allow min/max_version arguments to response,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/nova/+/936364
+api: Allow min/max_version arguments to expected_errors,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/nova/+/936363
+tests: Ensure all APIs have a response body schema,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/nova/+/924598
+Add probe test for reconciler with object versioning,Alistair Coles,alistairncoles@gmail.com,acoles,https://review.opendev.org/c/openstack/swift/+/936378
+Support prestage N release --for-sw-deploy on subclouds N-1 without USM,Cristian,cristian.mondo@windriver.com,cmondo,https://review.opendev.org/c/starlingx/ansible-playbooks/+/933673
+Fix missing oslo.policy options,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/heat/+/936385
+SDK for Neutron Quotas IP availabilty and Agents,Lajos Katona,katonalala@gmail.com,elajkat,https://review.opendev.org/c/openstack/horizon/+/936008
+Escape $ character in dc configuration files,Wallysson de Lima Silva,wallysson.silva@windriver.com,wsilva,https://review.opendev.org/c/starlingx/stx-puppet/+/936405
+sq?  maybe just don't allow that?,Clay Gerrard,clay.gerrard@gmail.com,clay-gerrard,https://review.opendev.org/c/openstack/swift/+/936388
+Manage apt repositores and keys using deb822_repository module,Dmitriy Rabotyagov,noonedeadpunk@gmail.com,noonedeadpunk,https://review.opendev.org/c/openstack/openstack-ansible-os_zun/+/936391
+Object-server: return 409 if x-delete-at is newer than queue entry,Jianjian Huo,jhuo@nvidia.com,jhuo,https://review.opendev.org/c/openstack/swift/+/932447
+docs: Add contributor docs for response body validation,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/nova/+/924597
+Move ec2-api Unmaintained series to End of Life,Elod Illes,elod.illes@est.tech,elod.illes,https://review.opendev.org/c/openstack/releases/+/936352
+Add election-timer option to ovn-db role,yosef,flaslnm@gmail.com,theYosal,https://review.opendev.org/c/openstack/kolla-ansible/+/934106
+Changes in app-node-feature-discovery resource usage and sleep-interval.,Bruno Veiga,Bruno.VeigadeAlmeida@windriver.com,bveigade,https://review.opendev.org/c/starlingx/app-node-feature-discovery/+/936286
+Add `Agent Startup State Tracking` spec,Serhii Ivanov,evasive.gyron@gmail.com,s3rj1k,https://review.opendev.org/c/openstack/neutron-specs/+/935724
+[ops] consider model error as relation not ready,Guillaume Boutry,guillaume.boutry@canonical.com,gboutry,https://review.opendev.org/c/openstack/sunbeam-charms/+/936370
+Filter out the floating IPs when removing a shared RBAC,Rodolfo Alonso,ralonsoh@redhat.com,rodolfo-alonso-hernandez,https://review.opendev.org/c/openstack/neutron/+/936014
+Fix missing oslo.policy options,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/zaqar/+/936395
+Fixed encryption type methods to comply with documentation,Nathan,naperezmail@gmail.com,nathanperez,https://review.opendev.org/c/openstack/tempest/+/935526
+Hitachi: support extending volume has snapshot(s),Atsushi Kawai,atsushi.kawai.bu@hitachi.com,akawai,https://review.opendev.org/c/openstack/cinder/+/850830
+mariadb: Bump to 11.4,Michal Nasiadka,mnasiadka@gmail.com,mnasiadka,https://review.opendev.org/c/openstack/kolla/+/926981
+Move devstack job to experimental,Jakub Libosvar,libosvar@redhat.com,jlibosva,https://review.opendev.org/c/openstack/ovn-bgp-agent/+/936403
+Fix the tagging policy engine,Rodolfo Alonso,ralonsoh@redhat.com,rodolfo-alonso-hernandez,https://review.opendev.org/c/openstack/neutron/+/935883
+Move devstack job to experimental,Jakub Libosvar,libosvar@redhat.com,jlibosva,https://review.opendev.org/c/openstack/ovn-bgp-agent/+/936402
+Move devstack job to experimental,Jakub Libosvar,libosvar@redhat.com,jlibosva,https://review.opendev.org/c/openstack/ovn-bgp-agent/+/936401
+Add TLS support for MariaDB Connections,Michal Arbet,michal.arbet@ultimum.io,michalarbet,https://review.opendev.org/c/openstack/kolla-ansible/+/933924
+Fix unintentional trigger of ansible handlers,Roman Krcek,roman.krcek@tietoevry.com,r-krcek,https://review.opendev.org/c/openstack/kolla-ansible/+/924145
+Add precheck for Horizon config file renames in Caracal,Mark Goddard,markgoddard86@gmail.com,mgoddard,https://review.opendev.org/c/openstack/kolla-ansible/+/923558
+Adjust the version in descriptions,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/oslo.utils/+/936383
+Add size limits to Fluentd buffers,Dawud,dawud@stackhpc.com,dawudm,https://review.opendev.org/c/openstack/kolla-ansible/+/924359
+Attach Manila shares via virtiofs (API),ribaudr,rene.ribaud@gmail.com,uggla,https://review.opendev.org/c/openstack/nova/+/836830
+Rook-ceph is not creating the OSDs from host that was offline when applying,Heitor Farhat,heitor.farhat@windriver.com,hfarhat,https://review.opendev.org/c/starlingx/app-rook-ceph/+/936251
+Support ovn-bgp agent with DVR disabled,Jakub Libosvar,libosvar@redhat.com,jlibosva,https://review.opendev.org/c/openstack/ovn-bgp-agent/+/936398
+Move OpenInfra mailing lists to new domain,Jeremy Stanley,fungi@yuggoth.org,fungi,https://review.opendev.org/c/opendev/system-config/+/936303
+Add instance.share_detach notification,ribaudr,rene.ribaud@gmail.com,uggla,https://review.opendev.org/c/openstack/nova/+/851028
+Manage apt repositores and keys using deb822_repository module,Dmitriy Rabotyagov,noonedeadpunk@gmail.com,noonedeadpunk,https://review.opendev.org/c/openstack/ansible-role-frrouting/+/936375
+Support ovn-bgp agent with DVR disabled,Jakub Libosvar,libosvar@redhat.com,jlibosva,https://review.opendev.org/c/openstack/ovn-bgp-agent/+/936399
+[unmaintained-only] Use proper versions for grenade,Elod Illes,elod.illes@est.tech,elod.illes,https://review.opendev.org/c/openstack/grenade/+/935868
+Show candidate combinatorial explosion by dev number,Balazs Gibizer,gibizer@gmail.com,gibi,https://review.opendev.org/c/openstack/nova/+/855885
+Check shares support (compute manager),ribaudr,rene.ribaud@gmail.com,uggla,https://review.opendev.org/c/openstack/nova/+/885751
+Add Health monitor sync logic,Fernando Royo,froyo@redhat.com,froyo,https://review.opendev.org/c/openstack/ovn-octavia-provider/+/931288
+Add shares to InstancePayload,ribaudr,rene.ribaud@gmail.com,uggla,https://review.opendev.org/c/openstack/nova/+/851029
+Add instance.share_detach_error notification,ribaudr,rene.ribaud@gmail.com,uggla,https://review.opendev.org/c/openstack/nova/+/860283
+Remove Buster testing,Dmitriy Rabotyagov,noonedeadpunk@gmail.com,noonedeadpunk,https://review.opendev.org/c/openstack/ansible-role-frrouting/+/936380
+Allow to mount manila share using Cephfs protocol,ribaudr,rene.ribaud@gmail.com,uggla,https://review.opendev.org/c/openstack/nova/+/883862
+DNM: debugging,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/heat/+/936282
+Add instance.share_attach_error notification,ribaudr,rene.ribaud@gmail.com,uggla,https://review.opendev.org/c/openstack/nova/+/860282
+Support resuming an instance with shares (compute manager part),ribaudr,rene.ribaud@gmail.com,uggla,https://review.opendev.org/c/openstack/nova/+/860285
+nova: Add support for using uWSGI,Michal Nasiadka,mnasiadka@gmail.com,mnasiadka,https://review.opendev.org/c/openstack/kolla-ansible/+/935975
+mpu-auditor: audit sessions,Alistair Coles,alistairncoles@gmail.com,acoles,https://review.opendev.org/c/openstack/swift/+/931517
+GRE/ERSPAN mirroring for taas,Lajos Katona,katonalala@gmail.com,elajkat,https://review.opendev.org/c/openstack/tap-as-a-service/+/885357
+Add share_info parameter to resume method for each driver (driver part),ribaudr,rene.ribaud@gmail.com,uggla,https://review.opendev.org/c/openstack/nova/+/860284
+add unit tests back into zuul yaml,Michel Thebeau,michel.thebeau@windriver.com,michel.thebeau,https://review.opendev.org/c/starlingx/app-openbao/+/936390
+Add instance.share_attach notification,ribaudr,rene.ribaud@gmail.com,uggla,https://review.opendev.org/c/openstack/nova/+/850501
+Switch to using enginefacade,Michal Nasiadka,mnasiadka@gmail.com,mnasiadka,https://review.opendev.org/c/openstack/magnum/+/935985
+Add labeled metrics to proxy-logging,Yan Xiao,yanxiao@nvidia.com,yanxiao,https://review.opendev.org/c/openstack/swift/+/917711
+Allow share server migration with replica,kiran pawar,kinpaa@gmail.com,kpdev,https://review.opendev.org/c/openstack/manila-tempest-plugin/+/936170
+Reports instance events to the DB regarding attaching and detaching a share,ribaudr,rene.ribaud@gmail.com,uggla,https://review.opendev.org/c/openstack/nova/+/927088
+Support rescuing an instance with shares,ribaudr,rene.ribaud@gmail.com,uggla,https://review.opendev.org/c/openstack/nova/+/860287
+Introduce backend system in oslo.service,Daniel Bengtsson,dbengt@redhat.com,damani42,https://review.opendev.org/c/openstack/oslo.service/+/935783
+Deprecate iteritems,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/oslo.db/+/936314
+Use vmtoolsd to query metadata/userdata from VMwareDataSource,Zhongcheng Lao,zhongcheng.lao@broadcom.com,laozc,https://review.opendev.org/c/x/cloudbase-init/+/924893
+api: Remove use of microversion constants,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/nova/+/936362
+Add a static FDB entry to fabric-facing bridges,Dmitrii Shcherbakov,,dmitriis,https://review.opendev.org/c/openstack/ovn-bgp-agent/+/935981
+ironic: Add patch to switch to linux instead of linuxefi in grub config,Dirk Mueller,dirk@dmllr.de,dmllr,https://review.opendev.org/c/openstack/rpm-packaging/+/936384
+Add Tobiko to gate jobs,Chris Buggy,cbuggy@redhat.com,cbuggy,https://review.opendev.org/c/openstack/ovn-octavia-provider/+/936341
+Add OSSA-2024-005 (CVE-2024-53916),Jay Faulkner,jay@jvf.cc,JayF,https://review.opendev.org/c/openstack/ossa/+/936200
+Fix syntax warning under Python 3.12/3.13,Thomas Goirand,thomas@goirand.fr,thomas-goirand,https://review.opendev.org/c/openstack/python-blazarclient/+/936381
+StorPool: Do not use packages `storpool` and `storpool.spopenstack`,Biser Milanov,biser.milanov@storpool.com,sp-bmilanov,https://review.opendev.org/c/openstack/os-brick/+/932176
+Deprecate options to enable/disable plugin tests,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/neutron-tempest-plugin/+/936045
+Migrate from tenant_id to project_id in ``test_network.py``,Rodolfo Alonso,ralonsoh@redhat.com,rodolfo-alonso-hernandez,https://review.opendev.org/c/openstack/neutron/+/935280
+"DNM - Test ""neutron-ovn-tempest-ipv6-only-ovs*"" with 1 worker",yatin,ykarel@redhat.com,yatinkarel,https://review.opendev.org/c/openstack/neutron/+/936147
+Initial Package Upload for Openbao,Tae Park,Tae.Park@windriver.com,tpark,https://review.opendev.org/c/starlingx/app-openbao/+/935703
+HPE 3par - Fix retype volume,Raghavendra Tilay,raghavendra-uddhav.tilay@hpe.com,raghavendrat,https://review.opendev.org/c/openstack/cinder/+/928599
+prometheus: Support overriding address of scrape targets,Mark Goddard,markgoddard86@gmail.com,mgoddard,https://review.opendev.org/c/openstack/kolla-ansible/+/899615
+Add gtid-purged-mode option,Felipe Reyes,felipe.reyes@canonical.com,freyes,https://review.opendev.org/c/openstack/charm-mysql-innodb-cluster/+/935979
+Add libvirt test to ensure metadata are working.,ribaudr,rene.ribaud@gmail.com,uggla,https://review.opendev.org/c/openstack/nova/+/852086
+Add ovn-bgp-agent / FRR / Horizon BGPVPN dashboard,Maximilian Sesterhenn,maximilian.sesterhenn@epg.com,msnatepg,https://review.opendev.org/c/openstack/kolla/+/891617
+Allow setting of disable_power_off via API,Derek Higgins,derekh@redhat.com,derekh,https://review.opendev.org/c/openstack/ironic/+/934740
+Set ansible-version to 9 in the base devstack-tempest job,Clark Boylan,cboylan@sapwetik.org,cboylan,https://review.opendev.org/c/openstack/tempest/+/929684
+[DNM] wsgi switch higher workers,yatin,ykarel@redhat.com,yatinkarel,https://review.opendev.org/c/openstack/neutron/+/936272
+Implement method in openstack metadata service,do-gyun kim,d0gyun.kim@samsung.com,do-gyun,https://review.opendev.org/c/x/cloudbase-init/+/933629
+Refactor test_server_shares: Mock in Base Class and trait verification,ribaudr,rene.ribaud@gmail.com,uggla,https://review.opendev.org/c/openstack/nova/+/935861
+WIP object_versioning: only create one version of each .data file,Alistair Coles,alistairncoles@gmail.com,acoles,https://review.opendev.org/c/openstack/swift/+/936296
+Implement background ping from the POD,Slawek Kaplonski,skaplons@redhat.com,slaweq,https://review.opendev.org/c/x/tobiko/+/936034
+Stop using crypt stdlib API,Thomas Goirand,thomas@goirand.fr,thomas-goirand,https://review.opendev.org/c/openstack/ironic/+/936357
+Re-enable the neutron-tempest-plugin-dvr-multinode-scenario case,liuyulong,i@liuyulong.me,LIU-Yulong,https://review.opendev.org/c/openstack/neutron-tempest-plugin/+/936318
+Add virt/libvirt error test cases,ribaudr,rene.ribaud@gmail.com,uggla,https://review.opendev.org/c/openstack/nova/+/852087
+OVN metadata agent additional_chassis detection,Jakub Libosvar,libosvar@redhat.com,jlibosva,https://review.opendev.org/c/openstack/neutron/+/934461
+OVN metadata agent additional_chassis detection,Jakub Libosvar,libosvar@redhat.com,jlibosva,https://review.opendev.org/c/openstack/neutron/+/934340
+nova-manage: modify image properties in request_spec,melanie witt,melwittt@gmail.com,melwitt,https://review.opendev.org/c/openstack/nova/+/935711
+Drop deprecated cinderv2 option,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/ceilometer/+/936220
+Pull puppet openstack modules from unmaintained/wallaby,Karolina Kula,kkula@redhat.com,karolinku,https://review.opendev.org/c/openstack/puppet-openstack-integration/+/918167
+Add helper methods to attach/detach shares,ribaudr,rene.ribaud@gmail.com,uggla,https://review.opendev.org/c/openstack/nova/+/885753
+Added integration to ingress-nginx helm chart,Jo├úo Pedro Barboza Lioneza,joaopedro.barbozalioneza@windriver.com,jbarboza,https://review.opendev.org/c/starlingx/openstack-armada-app/+/936194
+Add support for DNF5-based systems,Dmitriy Rabotyagov,noonedeadpunk@gmail.com,noonedeadpunk,https://review.opendev.org/c/openstack/diskimage-builder/+/934332
+Fix vmedia network config drive handling,Dmitry Tantsur,dtantsur@protonmail.com,dtantsur,https://review.opendev.org/c/openstack/ironic-python-agent-builder/+/936354
+Add logrotate config for redis,Sven Kieske,kieske@osism.tech,skieske,https://review.opendev.org/c/openstack/kolla-ansible/+/934345
+DNM: Check dependency on devstack-plugin-ceph bump to Squid,Francesco Pantano,fpantano@redhat.com,fmount,https://review.opendev.org/c/openstack/manila/+/927808
+Add an option to set OIDCXForwardedHeaders,Sven Kieske,kieske@osism.tech,skieske,https://review.opendev.org/c/openstack/kolla-ansible/+/928949
+"Introduction of ""swap floating ips"" feature.",Erkin Mussurmankulov,mangust404@gmail.com,mongoose404,https://review.opendev.org/c/openstack/trove/+/936145
+Make certificates role more configurable,Maksim Malchuk,maksim.malchuk@gmail.com,mmalchuk,https://review.opendev.org/c/openstack/kolla-ansible/+/934514
+Add helper methods to rescue/unrescue shares,ribaudr,rene.ribaud@gmail.com,uggla,https://review.opendev.org/c/openstack/nova/+/860286
+WIP == [OVN] Make provider network traffic centralized always,Rodolfo Alonso,ralonsoh@redhat.com,rodolfo-alonso-hernandez,https://review.opendev.org/c/openstack/neutron/+/935652
+Manila shares admin guide documentation,ribaudr,rene.ribaud@gmail.com,uggla,https://review.opendev.org/c/openstack/nova/+/871642
+DNM - Test dependency on devstack-plugin-ceph bump to Squid,Francesco Pantano,fpantano@redhat.com,fmount,https://review.opendev.org/c/openstack/glance/+/927809
+Create a function to validate if NetApp is available,Johnny Chia,johnny.chialung@windriver.com,jchialun,https://review.opendev.org/c/starlingx/openstack-armada-app/+/934920
+"Add extension ""uplink-status-propagation-updatable""",Rodolfo Alonso,ralonsoh@redhat.com,rodolfo-alonso-hernandez,https://review.opendev.org/c/openstack/neutron/+/931641
+Add a detailed debug message in case of segment allocation fail,Rodolfo Alonso,ralonsoh@redhat.com,rodolfo-alonso-hernandez,https://review.opendev.org/c/openstack/neutron/+/936171
+Add sync floating IP support,Rico Lin,ricolin@ricolky.com,rico.lin,https://review.opendev.org/c/openstack/ovn-octavia-provider/+/929039
+Enable enums in interface for zone controller,Oskar Lindgren,oskarxvi@gmail.com,olindgren,https://review.opendev.org/c/volvocars/powertrain-build/+/934646
+Add Redis as caching backend for Nova,Mat├║┼í Jen─ìa,matus.jenca@dnation.cloud,matusjenca,https://review.opendev.org/c/openstack/kolla-ansible/+/909203
+Add sysinv upgrades support for Kubernetes 1.30.6,Rakshith M R,rakshith.mr@windriver.com,rmr,https://review.opendev.org/c/starlingx/config/+/936118
+Add Redis as caching backend for Placement,Mat├║┼í Jen─ìa,matus.jenca@dnation.cloud,matusjenca,https://review.opendev.org/c/openstack/kolla-ansible/+/909222
+pytest-based selenium tests rm login tests,Jan Jasek,jjasek@redhat.com,janjasek,https://review.opendev.org/c/openstack/horizon/+/936312
+Add Member sync logic,Fernando Royo,froyo@redhat.com,froyo,https://review.opendev.org/c/openstack/ovn-octavia-provider/+/931267
+Add Redis as caching backend for Keystone,Mat├║┼í Jen─ìa,matus.jenca@dnation.cloud,matusjenca,https://review.opendev.org/c/openstack/kolla-ansible/+/909201
+BackgroundProcessTest should only run background tests,Eduardo Olivares,eolivare@redhat.com,eolivare,https://review.opendev.org/c/x/tobiko/+/936003
+Reduce calls to qemu-img for disk_info,Ivan Tkachuk,ivan.tkachuk@fotbo.org,Fstream,https://review.opendev.org/c/openstack/nova/+/936246
+fix: use nova-compute.conf in nova-compute-ironic,Marek Skrobacki,skrobul@skrobul.com,skrobul,https://review.opendev.org/c/openstack/openstack-helm/+/936258
+Example Review,David Barbosa Bastos,david.barbosabastos@windriver.com,dbarbosa,https://review.opendev.org/c/starlingx/metrics-server-armada-app/+/936361
+New ovsdbapp release 2.9.0,Rodolfo Alonso,ralonsoh@redhat.com,rodolfo-alonso-hernandez,https://review.opendev.org/c/openstack/releases/+/936345
+"Add policy enforcer for QoS policy ""tags"" service plugin",Rodolfo Alonso,ralonsoh@redhat.com,rodolfo-alonso-hernandez,https://review.opendev.org/c/openstack/neutron/+/936344
+"Add policy enforcer for QoS policy ""tags"" service plugin",Rodolfo Alonso,ralonsoh@redhat.com,rodolfo-alonso-hernandez,https://review.opendev.org/c/openstack/neutron/+/936342
+"Add policy enforcer for QoS policy ""tags"" service plugin",Rodolfo Alonso,ralonsoh@redhat.com,rodolfo-alonso-hernandez,https://review.opendev.org/c/openstack/neutron/+/936340
+"DNM - Test ""neutron-ovn-tempest-*"" for OVN with WSGI",Rodolfo Alonso,ralonsoh@redhat.com,rodolfo-alonso-hernandez,https://review.opendev.org/c/openstack/neutron/+/931842
+Add `attributes` property to OS::Designate::Zone,Rabi Mishra,ramishra@redhat.com,rabi,https://review.opendev.org/c/openstack/heat/+/936343
+Remove port resource change after unplug,liuyulong,i@liuyulong.me,LIU-Yulong,https://review.opendev.org/c/openstack/neutron/+/936235
+Retain port binding profile after live migration,Nisha Brahmankar,nishagb017@gmail.com,nishagb,https://review.opendev.org/c/openstack/nova/+/936338
+docs: Update authentication configuration examples,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/openstacksdk/+/936350
+WIP Add prometheus data source for watcher decision engine,Marios Andreou,mandreou@redhat.com,marios,https://review.opendev.org/c/openstack/watcher/+/934423
+Ignore iteritems() and use items() solely,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/oslo.serialization/+/936315
+WIP: Add Tempest test for Prometheus integration,Ronelle Landy,rlandy@redhat.com,rlandy,https://review.opendev.org/c/openstack/watcher/+/935371
+Add testing of mcapi on ubuntu noble,Jonathan Rosser,jonathan.rosser@rd.bbc.co.uk,jrosser,https://review.opendev.org/c/openstack/openstack-ansible-os_magnum/+/936299
+[OpenStack-Ansible Roles] Create Dalmatian branch,Dmitriy Rabotyagov,noonedeadpunk@gmail.com,noonedeadpunk,https://review.opendev.org/c/openstack/releases/+/936353
+Fix 2089474: Add support for generic record types,para sitid,parasitid@yahoo.fr,parasitid,https://review.opendev.org/c/openstack/designate/+/936264
+Add a repr method to fixture ``Host``,Rodolfo Alonso,ralonsoh@redhat.com,rodolfo-alonso-hernandez,https://review.opendev.org/c/openstack/neutron/+/936219
+WIP: Switch to check_output to get errors,Michal Nasiadka,mnasiadka@gmail.com,mnasiadka,https://review.opendev.org/c/openstack/magnum-tempest-plugin/+/936339
+Configuring tests for different themes - ui unification,Jan Jasek,jjasek@redhat.com,janjasek,https://review.opendev.org/c/openstack/horizon/+/936311
+Add release notes for the background ping from POD,Slawek Kaplonski,skaplons@redhat.com,slaweq,https://review.opendev.org/c/x/tobiko/+/936348
+Update OSA roles repository list,Dmitriy Rabotyagov,noonedeadpunk@gmail.com,noonedeadpunk,https://review.opendev.org/c/openstack/releases/+/936336
+Switch to neutron-functional job,yatin,ykarel@redhat.com,yatinkarel,https://review.opendev.org/c/openstack/neutron-lib/+/936265
+Wait for the router port activation before deletion,Rodolfo Alonso,ralonsoh@redhat.com,rodolfo-alonso-hernandez,https://review.opendev.org/c/openstack/tempest/+/936337
+Release telemetry-tempest-plugin,Jarom├¡r Wysoglad,jwysogla@redhat.com,jwysogla,https://review.opendev.org/c/openstack/releases/+/936192
+Add Pool sync logic,Fernando Royo,froyo@redhat.com,froyo,https://review.opendev.org/c/openstack/ovn-octavia-provider/+/931266
+Ensure ironic-python-agent matches ironic-lib,Pierre Riteau,pierre@stackhpc.com,priteau,https://review.opendev.org/c/openstack/kayobe/+/936241
+Tempest job for s3 backend of glance,Abhishek Kekane,akekane@redhat.com,abhishekkekane,https://review.opendev.org/c/openstack/glance/+/934311
+Add LB sync logic,Rico Lin,ricolin@ricolky.com,rico.lin,https://review.opendev.org/c/openstack/ovn-octavia-provider/+/925324
+Add config options for volume-based amphora.,Edward Hope-Morley,edward.hope-morley@canonical.com,hopem,https://review.opendev.org/c/openstack/charm-octavia/+/934530
+Add a config option for virtual hosted bucket,Ponnuvel Palaniyappan,ponnuvel.palaniyappan@canonical.com,pponnuvel,https://review.opendev.org/c/openstack/charm-ceph-radosgw/+/936030
+Reduce the amount of time of Tacker's functional tests,Ai Hamano,ai.hamano@ntt-at.co.jp,hamano,https://review.opendev.org/c/openstack/tacker/+/935618
+Ensure ironic-python-agent matches ironic-lib,Pierre Riteau,pierre@stackhpc.com,priteau,https://review.opendev.org/c/openstack/kayobe/+/936242
+[CI] Remove periodic jobs from unmaintained branch,Elod Illes,elod.illes@est.tech,elod.illes,https://review.opendev.org/c/openstack/openstack-ansible/+/932921
+Neutron: account for disable_power_off,Dmitry Tantsur,dtantsur@protonmail.com,dtantsur,https://review.opendev.org/c/openstack/ironic/+/934972
+Update gate jobs as per the 2025.1 cycle testing runtime,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/magnum/+/932955
+Update gate jobs as per the 2025.1 cycle testing runtime,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/magnum-tempest-plugin/+/932954
+Drop synlink with no referent,Jake Yip,jake.yip@ardc.edu.au,jake,https://review.opendev.org/c/openstack/magnum/+/936333
+"CI: Stop running py38, add py312",Michal Nasiadka,mnasiadka@gmail.com,mnasiadka,https://review.opendev.org/c/openstack/magnum-capi-helm/+/933703
+Fix indexing into subnet list during cluster creation,Andrew Bonney,andrew.bonney@bbc.co.uk,andrewbonney,https://review.opendev.org/c/openstack/magnum-ui/+/934930
+Use floating IPs according to template,Piotr Parczewski,piotr@stackhpc.com,piotrp,https://review.opendev.org/c/openstack/magnum-capi-helm/+/933619
+Intro docs for Magnum-CAPI-helm,Massimiliano Favaro-Bedford,max@stackhpc.com,MaxBed4d,https://review.opendev.org/c/openstack/magnum-capi-helm/+/935663
+Drop synlink with no referent,Jake Yip,jake.yip@ardc.edu.au,jake,https://review.opendev.org/c/openstack/magnum/+/936332
+Update .gitreview for unmaintained/2023.1,OpenStack Release Bot,infra-root@openstack.org,release,https://review.opendev.org/c/openstack/magnum/+/934773
+Update gate jobs as per the 2025.1 cycle testing runtime,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/vitrage-tempest-plugin/+/935419
+DNM - Do not merge,XuQi,xuq.fnstxz@fujitsu.com,inori,https://review.opendev.org/c/openstack/cinder/+/933549
+"Fix like search option ""name~"" share list api",Inyong Hong,inyong.hong@samsung.com,hong-p,https://review.opendev.org/c/openstack/manila/+/936331
+Task Manager: Log if the lock takes too long,Julia Kreger,juliaashleykreger@gmail.com,jkreger,https://review.opendev.org/c/openstack/ironic/+/892412
+Add voting jobs to gate,Michal Nasiadka,mnasiadka@gmail.com,mnasiadka,https://review.opendev.org/c/openstack/magnum/+/935982
+"Revert ""Remove use of autocommit""",Mohammed Naser,mnaser@vexxhost.com,mnaser,https://review.opendev.org/c/openstack/magnum/+/930380
+Add RPC call to initialize cluster before creation,Dale Smith,dale@catalystcloud.nz,dalees,https://review.opendev.org/c/openstack/magnum/+/927555
+Use specific fix-commit from dnsmasq,Jay Faulkner,jay@jvf.cc,JayF,https://review.opendev.org/c/openstack/ironic/+/936205
+Improve application credential validation speed,Trent Lloyd,trent.lloyd@canonical.com,lathiat,https://review.opendev.org/c/openstack/keystone/+/936329
+Fix incompatiablity between apscheduler and eventlet,sean mooney,smooney@redhat.com,sean-k-mooney,https://review.opendev.org/c/openstack/watcher/+/933890
+Remove unused test utilities,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/ceilometer/+/935679
+Remove remaining logic for gnocchi devstack plugin,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/ceilometer/+/936102
+Fix outdated supported database backends,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/ceilometer/+/936224
+Remove remaining reference to OpenDaylight,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/ceilometer/+/936222
+Remove OpenContrail support,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/ceilometer/+/936223
+Remove VMWare vSphere support,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/ceilometer/+/936109
+Fix missing requests-aws,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/ceilometer/+/936270
+Remove duplicate hacking checks,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/octavia/+/936322
+Drop duplicate hacking check,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/neutron/+/936320
+Replace own hacking checks by built-on ones,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/glance/+/936319
+Move horizon-non-primary-django-jobs to python 3.12,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/horizon/+/936325
+Add option to not reveal domains on login page,Freerk-Ole Zakfeld,freerk@zakfeld.com,freerkzakfeld,https://review.opendev.org/c/openstack/skyline-apiserver/+/934649
+DNM: testing CI on Noble,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/releases/+/936326
+Update python classifier as per the 2025.1 cycle testing runtime,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/octavia-dashboard/+/935596
+Update gate jobs as per the 2025.1 cycle testing runtime,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/zun/+/935411
+Remove duplicate hacking checks,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/ovn-octavia-provider/+/936324
+Replace own hacking checks by built-on ones,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/cloudkitty/+/936317
+Remove remaining use of iteritems,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/cloudkitty/+/936316
+Porting FormPost to use WSGIContext instead of self-handling subrequest,Nathan Nguyen,nguyennathan1502@gmail.com,nathang15,https://review.opendev.org/c/openstack/swift/+/936208
+Remove duplicate hacking checks,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/python-octaviaclient/+/936323
+Remove stable/2023.1 job from master gate,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/octavia-tempest-plugin/+/934270
+Update gate jobs as per the 2025.1 cycle testing runtime,Rodolfo Alonso,ralonsoh@redhat.com,rodolfo-alonso-hernandez,https://review.opendev.org/c/openstack/neutron-tempest-plugin/+/933277
+Test double encoding of error message,cid,cid@gr-oss.io,cidelight,https://review.opendev.org/c/openstack/ironic-tempest-plugin/+/935740
+Updated from Packstack modules constraints,RDO Release Bot,rhos-role-rdo-admin@redhat.com,rdo-release-bot,https://review.opendev.org/c/x/packstack/+/936313
+Pull puppet openstack modules from unmaintained/xena,Karolina Kula,kkula@redhat.com,karolinku,https://review.opendev.org/c/openstack/puppet-openstack-integration/+/918168
+Add testing of mcapi on ubuntu noble,Jonathan Rosser,jonathan.rosser@rd.bbc.co.uk,jrosser,https://review.opendev.org/c/openstack/openstack-ansible-ops/+/936300
+Align Dockerfile defaults with best practises,Vasyl Saienko,vsaienko@mirantis.com,vsaienko,https://review.opendev.org/c/openstack/loci/+/936260
+Add optional periodic export of cluster-api internal state,Jonathan Rosser,jonathan.rosser@rd.bbc.co.uk,jrosser,https://review.opendev.org/c/openstack/openstack-ansible-ops/+/936285
+Produce 2024.2 RC1 for OpenStack-Ansible,Dmitriy Rabotyagov,noonedeadpunk@gmail.com,noonedeadpunk,https://review.opendev.org/c/openstack/openstack-ansible/+/936309
+prevent break on communications failure,Julia Kreger,juliaashleykreger@gmail.com,jkreger,https://review.opendev.org/c/openstack/networking-baremetal/+/936292
+Fix access rule visibility locks,Carlos Eduardo,ces.eduardo98@gmail.com,silvacarlos,https://review.opendev.org/c/openstack/manila/+/936307
+api: Add schema validation framework,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/ironic/+/928920
+Fix access rule visibility locks,Carlos Eduardo,ces.eduardo98@gmail.com,silvacarlos,https://review.opendev.org/c/openstack/manila/+/936304
+Capture lodgeit captchas for verification purposes,Clark Boylan,cboylan@sapwetik.org,cboylan,https://review.opendev.org/c/opendev/system-config/+/936297
+Fix access rule visibility locks,Carlos Eduardo,ces.eduardo98@gmail.com,silvacarlos,https://review.opendev.org/c/openstack/manila/+/936308
+"Support "":"" in image name for API query without ""eq"" operator",Ryuji Maeda,rymaeda@lycorp.co.jp,rymaeda,https://review.opendev.org/c/openstack/glance/+/934922
+Fix DC geo-redundancy systemcontroller_gateway_address syncing,Gustavo Herzmann,gustavo.herzmann@windriver.com,gherzman,https://review.opendev.org/c/starlingx/distcloud/+/936310
+Drop live_migration_tunnelled,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/puppet-nova/+/932426
+DNM Forced fail on Gerrit to test the 3.10 upgrade,Clark Boylan,cboylan@sapwetik.org,cboylan,https://review.opendev.org/c/opendev/system-config/+/893571
+Add JSON Schema to `endpoint groups` and validation decorators to endpoint groups resource.,Antonia Gaete,antoniagaete@osuosl.org,antoniagaete,https://review.opendev.org/c/openstack/keystone/+/929686
+Update gate jobs as per the 2025.1 cycle testing runtime,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/cloudkitty/+/932936
+Re-enable building of nova openapi specs as a voting job,Artem Goncharov,artem.goncharov@gmail.com,gtema,https://review.opendev.org/c/openstack/codegenerator/+/936281
+Send port_update event after router interfaces changed,liuyulong,i@liuyulong.me,LIU-Yulong,https://review.opendev.org/c/openstack/neutron/+/936237
+Add resource and collection name in uplink-status-propagation-updatable,Rodolfo Alonso,ralonsoh@redhat.com,rodolfo-alonso-hernandez,https://review.opendev.org/c/openstack/neutron-lib/+/936234
+Update Gerrit images to 3.9.8 and 3.10.3,Clark Boylan,cboylan@sapwetik.org,cboylan,https://review.opendev.org/c/opendev/system-config/+/936305
+[Netapp] make deleted volume retention period configurable,kiran pawar,kinpaa@gmail.com,kpdev,https://review.opendev.org/c/openstack/manila/+/932912
+SDK for Neutron Routers,Lajos Katona,katonalala@gmail.com,elajkat,https://review.opendev.org/c/openstack/horizon/+/934457
+Performance: Don't notify handlers during config,Rados┼éaw Piliszek,radek@piliszek.it,yoctozepto,https://review.opendev.org/c/openstack/kolla-ansible/+/745164
+Update gate jobs as per the 2025.1 cycle testing runtime,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/monasca-api/+/935414
+Add JSON schema to `service provider` and validation decorators to service provider resource.,Antonia Gaete,antoniagaete@osuosl.org,antoniagaete,https://review.opendev.org/c/openstack/keystone/+/930610
+Update gate jobs as per the 2025.1 cycle testing runtime,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/masakari/+/932959
+Use stable branch upper-constraints till 2023.1,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/heat/+/934687
+DNM Testing on KVM,Joel Capitao,jcapitao@redhat.com,jcapiitao,https://review.opendev.org/c/openstack/diskimage-builder/+/936024
+Enable ovs_use_veth when gateway_ip_qos is used,Dmitriy Rabotyagov,noonedeadpunk@gmail.com,noonedeadpunk,https://review.opendev.org/c/openstack/openstack-ansible-os_neutron/+/936288
+Update .gitreview for unmaintained/2023.1,OpenStack Release Bot,infra-root@openstack.org,release,https://review.opendev.org/c/openstack/tacker/+/935077
+Drop USE_L10N,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/horizon/+/936294
+Bump SHAs to 2023.1,Dmitriy Rabotyagov,noonedeadpunk@gmail.com,noonedeadpunk,https://review.opendev.org/c/openstack/openstack-ansible/+/936284
+Update .gitreview for unmaintained/2023.1,OpenStack Release Bot,infra-root@openstack.org,release,https://review.opendev.org/c/openstack/devstack-plugin-ceph/+/934754
+Captcha: Fix text layer location calculation,Oria Weng,oweng@osuosl.org,0weng,https://review.opendev.org/c/opendev/lodgeit/+/935712
+Update .gitreview for unmaintained/2023.1,OpenStack Release Bot,infra-root@openstack.org,release,https://review.opendev.org/c/openstack/zaqar/+/935009
+Configures `s3_store_cacert` glance_store variable,Felipe Figueroa Vergara,ffigueroa@whitestack.com,felipeafv,https://review.opendev.org/c/openstack/kolla-ansible/+/934696
+Dynamic disk qos updates support,Andrei Yachmenev,andweanew@gmail.com,weanew,https://review.opendev.org/c/openstack/nova-specs/+/936302
+Update .gitreview for unmaintained/2023.1,OpenStack Release Bot,infra-root@openstack.org,release,https://review.opendev.org/c/openstack/vitrage/+/935130
+Add JSON Schema to `application credentials` and validation decorators to application credential resource.,Antonia Gaete,antoniagaete@osuosl.org,antoniagaete,https://review.opendev.org/c/openstack/keystone/+/925517
+Update .gitreview for unmaintained/2023.1,OpenStack Release Bot,infra-root@openstack.org,release,https://review.opendev.org/c/openstack/cliff/+/935065
+Migrate tempest jobs to Ubuntu Noble (24.04),Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/tempest/+/932156
+Add unlinks stats,Chinemerem Chigbo,cchigbo@nvidia.com,chinemerem,https://review.opendev.org/c/openstack/swift/+/933880
+Add spec for show scheduler hints in server details,Douglas Viroel,viroel@gmail.com,dviroel,https://review.opendev.org/c/openstack/nova-specs/+/936140
+Update .gitreview for unmaintained/2023.1,OpenStack Release Bot,infra-root@openstack.org,release,https://review.opendev.org/c/openstack/os-ken/+/935105
+proxy-logging: Add real-time transfer bytes counters,Yan Xiao,yanxiao@nvidia.com,yanxiao,https://review.opendev.org/c/openstack/swift/+/930918
+"Revert ""[libvirt] Live migration fails when config_drive_format=iso9660""",Doug Szumski,doug@stackhpc.com,DougSzumski,https://review.opendev.org/c/openstack/nova/+/909122
+WIP Support versioning of object with offset timestamps,Alistair Coles,alistairncoles@gmail.com,acoles,https://review.opendev.org/c/openstack/swift/+/936196
+CI: Remove metalsmith legacy jobs,Julia Kreger,juliaashleykreger@gmail.com,jkreger,https://review.opendev.org/c/openstack/metalsmith/+/933154
+Update .gitreview for unmaintained/2023.1,OpenStack Release Bot,infra-root@openstack.org,release,https://review.opendev.org/c/openstack/tap-as-a-service/+/935113
+Update .gitreview for unmaintained/2023.1,OpenStack Release Bot,infra-root@openstack.org,release,https://review.opendev.org/c/openstack/neutron-dynamic-routing/+/935090
+Add unit test coverage of get_machine_ips,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/nova/+/936287
+Unblock the CI gate,sean mooney,smooney@redhat.com,sean-k-mooney,https://review.opendev.org/c/openstack/watcher/+/934996
+Update .gitreview for unmaintained/2023.1,OpenStack Release Bot,infra-root@openstack.org,release,https://review.opendev.org/c/openstack/swift/+/936137
+Update .gitreview for unmaintained/2023.1,OpenStack Release Bot,infra-root@openstack.org,release,https://review.opendev.org/c/openstack/networking-sfc/+/935088
+Replace glanceclient with openstacksdk,Cyril Roelandt,cyril@redhat.com,cyril.roelandt.enovance,https://review.opendev.org/c/openstack/manila/+/935835
+Identity: Migrate limit commands to SDK,Oria Weng,oweng@osuosl.org,0weng,https://review.opendev.org/c/openstack/python-openstackclient/+/936279
+DNM - Test tempest jobs in Ubuntu Noble (24.04),Rodolfo Alonso,ralonsoh@redhat.com,rodolfo-alonso-hernandez,https://review.opendev.org/c/openstack/neutron/+/932920
+Fix nova-libvirt's secrets - device or resource is busy,Michal Arbet,michal.arbet@ultimum.io,michalarbet,https://review.opendev.org/c/openstack/kolla-ansible/+/936175
+Fix nova-libvirt's secrets - device or resource is busy,Michal Arbet,michal.arbet@ultimum.io,michalarbet,https://review.opendev.org/c/openstack/kolla-ansible/+/936174
+add float_ip and gateway_ip QoS support,Mohammadreza Barkhordari,mrz.barkhordari@gmail.com,mreza-barkhordari,https://review.opendev.org/c/openstack/openstack-ansible-os_neutron/+/921779
+[pre-commit] enforce pre-commit checks in ci,sean mooney,smooney@redhat.com,sean-k-mooney,https://review.opendev.org/c/openstack/watcher/+/934394
+DO NOT MERGE: docs test,Davlet Panech,davlet.panech@windriver.com,dpanech,https://review.opendev.org/c/starlingx/config/+/936275
+Update default Ubuntu to noble (latest LTS),Jay Faulkner,jay@jvf.cc,JayF,https://review.opendev.org/c/openstack/diskimage-builder/+/936209
+update constraint for keystoneauth1 to new release 5.9.1,OpenStack Proposal Bot,,proposal-bot,https://review.opendev.org/c/openstack/requirements/+/936267
+Bump sha for openstack_hosts role,Jonathan Rosser,jonathan.rosser@rd.bbc.co.uk,jrosser,https://review.opendev.org/c/openstack/openstack-ansible/+/936263
+Add policy rule for get quotas,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/aodh/+/936268
+Add retries to `Waiting for rabbitmq to start`,Matt Crees,mattc@stackhpc.com,mattcrees,https://review.opendev.org/c/openstack/kolla-ansible/+/934135
+Drop logic for absence of segregation rule,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/aodh/+/936259
+Update .gitreview for unmaintained/2023.1,OpenStack Release Bot,infra-root@openstack.org,release,https://review.opendev.org/c/openstack/designate/+/935014
+Adding nameserver get for a zone from the DNS SDK,JaeSeong-Shin,rornfl916@gmail.com,JaeSeong,https://review.opendev.org/c/openstack/openstacksdk/+/926133
+identity: Migrate `region` commands to SDK,Antonia Gaete,antoniagaete@osuosl.org,antoniagaete,https://review.opendev.org/c/openstack/python-openstackclient/+/930937
+WIP: Reduce CPU spikes during collect - collect timing,Eric MacDonald,eric.macdonald@windriver.com,rocksolidmtce,https://review.opendev.org/c/starlingx/utilities/+/936271
+WIP: Reduce CPU spikes during collect - minimal changes,Eric MacDonald,eric.macdonald@windriver.com,rocksolidmtce,https://review.opendev.org/c/starlingx/utilities/+/936202
+Remove default override for config options policy_file,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/tacker/+/934580
+[DNM] functional noble w/o venv,yatin,ykarel@redhat.com,yatinkarel,https://review.opendev.org/c/openstack/neutron/+/936022
+Add Listener sync logic,Fernando Royo,froyo@redhat.com,froyo,https://review.opendev.org/c/openstack/ovn-octavia-provider/+/931250
+Collect bonding information for log,Andre Kantek,AndreFernandoZanella.Kantek@windriver.com,akantek,https://review.opendev.org/c/starlingx/utilities/+/936195
+Add Octavia OVN DBs sync cmd,Rico Lin,ricolin@ricolky.com,rico.lin,https://review.opendev.org/c/openstack/ovn-octavia-provider/+/925747
+Add support for burnin-gpu,cid,cid@gr-oss.io,cidelight,https://review.opendev.org/c/openstack/ironic-python-agent/+/925415
+Add octavia_client with openstacksdk,Fernando Royo,froyo@redhat.com,froyo,https://review.opendev.org/c/openstack/ovn-octavia-provider/+/930692
+Load full contexts from request headers,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/aodh/+/930106
+Skip config apply on offline hosts during runtime,ramu ummadishetty,ramu.ummadishetty@windriver.com,rummadis,https://review.opendev.org/c/starlingx/config/+/936149
+DNM Switch to KVM,Joel Capitao,jcapitao@redhat.com,jcapiitao,https://review.opendev.org/c/zuul/zuul-jobs/+/936023
+Remove Kristi Nikolla as release liaison for Keystone,David Wilde,dwilde@redhat.com,d34dh0r53,https://review.opendev.org/c/openstack/releases/+/936261
+Delete LockableZKObject lock paths,James E. Blair,jim@acmegating.com,corvus,https://review.opendev.org/c/zuul/zuul/+/936204
+Fix: Ensure compliance with sudo and su security best practices,Rahul Roshan Kachchap,rahulroshan.kachchap@windriver.com,rkachcha,https://review.opendev.org/c/starlingx/config-files/+/935739
+Show finish_time field in instance action show,Rajesh Tailor,ratailor@redhat.com,rajesht,https://review.opendev.org/c/openstack/nova-specs/+/929780
+Centralize lifecycle-related constants in a single file.,Edson Dias,edson.dias@windriver.com,edias,https://review.opendev.org/c/starlingx/config/+/936252
+Fix proxysql-config's TLS DB configuration,Michal Arbet,michal.arbet@ultimum.io,michalarbet,https://review.opendev.org/c/openstack/kolla-ansible/+/933922
+Fix instance vm_state during shelve,Rajesh Tailor,ratailor@redhat.com,rajesht,https://review.opendev.org/c/openstack/nova/+/934294
+[doc] Document pretty endpoint namings,Dmitriy Rabotyagov,noonedeadpunk@gmail.com,noonedeadpunk,https://review.opendev.org/c/openstack/openstack-ansible/+/934536
+Fix nova-libvirt's secrets - device or resource is busy,Michal Arbet,michal.arbet@ultimum.io,michalarbet,https://review.opendev.org/c/openstack/kolla-ansible/+/936176
+Drop Python 3.8 support,Rafael Weingartner,rafael@apache.org,rafaelweingartner,https://review.opendev.org/c/openstack/cloudkitty/+/933144
+Fixes in interface/zone_controller.py,Henrik Wahlqvist,henrik.wahlqvist@volvocars.com,hwahlqvi,https://review.opendev.org/c/volvocars/powertrain-build/+/936236
+devstack: Drop unused local variable,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/ceilometer/+/936108
+doc: mark Revert to Snapshot as supported on Generic NFS,Luigi Toscano,ltoscano@redhat.com,ltoscano,https://review.opendev.org/c/openstack/cinder/+/936182
+[helm-toolkit] Env secret overrides for daemonsets,Vladimir Kozhukalov,kozhukalov@gmail.com,kozhukalov,https://review.opendev.org/c/openstack/openstack-helm-infra/+/932670
+Bump pytest to version 8.3.3,Dr. Jens Harbott,frickler@offenerstapel.de,jrosenboom,https://review.opendev.org/c/openstack/requirements/+/925057
+Transition victoria-eom branches to EOL,Dr. Jens Harbott,frickler@offenerstapel.de,jrosenboom,https://review.opendev.org/c/openstack/releases/+/935373
+nova-manage: modify image properties in request_spec,melanie witt,melwittt@gmail.com,melwitt,https://review.opendev.org/c/openstack/nova/+/935713
+add python 3.12 support,Sven Kieske,kieske@osism.tech,skieske,https://review.opendev.org/c/openstack/pbr/+/924216
+api: Add response body schemas for port interface APIs,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/nova/+/924589
+libvirt: direct SPICE console object changes,Michael Still,mikal@stillhq.com,mikalstill,https://review.opendev.org/c/openstack/nova/+/926876
+Test user visible extra spec,Yosi Ben Shimon,ybenshim@redhat.com,ybenshim,https://review.opendev.org/c/openstack/cinder-tempest-plugin/+/933638
+api: Add response body schemas for bare metal node APIs,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/nova/+/924591
+Refactor services' check-containers and optimise,Rados┼éaw Piliszek,radek@piliszek.it,yoctozepto,https://review.opendev.org/c/openstack/kolla-ansible/+/773243
+api: Add response body schemas for flavors APIs,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/nova/+/924595
+api: Add response body schemas for console auth token APIs,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/nova/+/924592
+Replace distutils,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/nova/+/936067
+Fix issue of healing after scale out v1 VNF,Takahiro Miyajima,fj6257jz@fujitsu.com,f-miyajima,https://review.opendev.org/c/openstack/tacker/+/932487
+Remove deprecated aliases of options,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/oslo.messaging/+/936227
+update constraint for oslo.log to new release 6.2.0,OpenStack Proposal Bot,,proposal-bot,https://review.opendev.org/c/openstack/requirements/+/935754
+wip: Enforce new policy rules by default,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/aodh/+/930104
+Fix replication detach error,wu.chunyang,wchy1001@gmail.com,wu.chunyang,https://review.opendev.org/c/openstack/trove/+/936218
+python-3.13: Fix syntax warning,Thomas Goirand,thomas@goirand.fr,thomas-goirand,https://review.opendev.org/c/openinfra/refstack-client/+/936226
+Remove reference to non-existent functional test env,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/aodh/+/936228
+Add Cinder Huawei charm,Yoshi Kadokawa,yoshi.kadokawa@canonical.com,yoshikado,https://review.opendev.org/c/openstack/governance/+/867588
+Add ansible-role-httpd repo to OSA-owned projects,Dmitriy Rabotyagov,noonedeadpunk@gmail.com,noonedeadpunk,https://review.opendev.org/c/openstack/governance/+/935694
+rework the initial goal proposal as suggested by people,Herv├⌐ Beraud,herveberaud.pro@gmail.com,hberaud,https://review.opendev.org/c/openstack/governance/+/931254
+prometheus: Add OVS exporter,Dr. Jens Harbott,frickler@offenerstapel.de,jrosenboom,https://review.opendev.org/c/openstack/kolla/+/812463
+[manila] Transition 2023.1 Antelope to Unmaintained,Elod Illes,elod.illes@est.tech,elod.illes,https://review.opendev.org/c/openstack/releases/+/934506
+Use module path to load wsgi application,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/zaqar/+/936212
+Add interface to get store weight from memory,Abhishek Kekane,akekane@redhat.com,abhishekkekane,https://review.opendev.org/c/openstack/glance_store/+/934362
+Refresh keystone client on missing service,Erno Kuvaja,jokke@usr.fi,jokke,https://review.opendev.org/c/openstack/ceilometer/+/925084
+Remove remaining reference to ZeroMQ,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/zaqar/+/936217
+[Stable Only] pin virtualbmc/sushy-tools/ironic-tempest-plugin to last released tag,yatin,ykarel@redhat.com,yatinkarel,https://review.opendev.org/c/openstack/ironic/+/934036
+[ironic] Transition 2023.1 Antelope to Unmaintained,Elod Illes,elod.illes@est.tech,elod.illes,https://review.opendev.org/c/openstack/releases/+/934476
+Imported Translations from Zanata,OpenStack Proposal Bot,,proposal-bot,https://review.opendev.org/c/openstack/keystone/+/930663
+Disable prometheus requests logging,Arnaud Morin,arnaud.morin@gmail.com,arnaudmorin,https://review.opendev.org/c/openstack/oslo.metrics/+/932709
+Updating Lightbits's Cinder driver documentations,Rahman Muhammad,rahman@lightbitslabs.com,rahman-lb,https://review.opendev.org/c/openstack/cinder/+/929701
+Add JSON schema validation to share-extend API,Youssef baataoui,baataouiyoussef@gmail.com,ybaataoui,https://review.opendev.org/c/openstack/manila/+/931854
+Optionally configure IPv6 metadata address,Brian Haley,haleyb.dev@gmail.com,brian-haley,https://review.opendev.org/c/openstack/neutron/+/926497
+Update gate jobs as per the 2025.1 cycle testing runtime,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/stackviz/+/936213
+Use separate transaction in capacity check,Richard Gold,rdgold94@gmail.com,rich-gold,https://review.opendev.org/c/openstack/placement/+/934451
+Delete the suse reference in the documentation.,renliang,renliang@uniontech.com,renliang17,https://review.opendev.org/c/openstack/nova/+/927705
+Update gate jobs as per the 2025.1 cycle testing runtime,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/telemetry-tempest-plugin/+/935420
+Add wsgi module,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/aodh/+/936211
+Update gate jobs as per the 2025.1 cycle testing runtime,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/coverage2sql/+/904607
+[IBM SVf Driver] Added support of clone operation for volumegroup,Harsh Ailani,harsh.ailani@ibm.com,harshailani,https://review.opendev.org/c/openstack/cinder/+/929777
+Update gate jobs as per the 2025.1 cycle testing runtime,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/os-performance-tools/+/904609
+Drop direct execution of python file,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/oslo.metrics/+/936210
+Don't notify handlers during copy-cert,Roman Krcek,roman.krcek@tietoevry.com,r-krcek,https://review.opendev.org/c/openstack/kolla-ansible/+/924651
+"Update ""Install via devstack"" document",Kyaw Myo Thant,kyawmyothant@ntt-at.co.jp,AT-Kyawmyothant,https://review.opendev.org/c/openstack/tacker/+/936124
+Add designate-bind9-multipool job,Omer Schwartz,oschwart@redhat.com,oschwart,https://review.opendev.org/c/openstack/designate/+/926274
+Add Dalmatian Support,Mohd Nisar Khan,nisarkhancsengg@gmail.com,nisarkhan,https://review.opendev.org/c/x/python-group-based-policy-client/+/936151
+Adopt to the new endpoint url,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/python-zaqarclient/+/936112
+StorPool: Propagate a 'storpool:qos_class' extra spec to the StorPool API,Biser Milanov,biser.milanov@storpool.com,sp-bmilanov,https://review.opendev.org/c/openstack/cinder/+/926273
+Drop duplicate hacking check of thrid party mock,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/cinder/+/936070
+db: Move helpers to cinder.db.sqlalchemy.api,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/cinder/+/837543
+Dell PowerMax Driver: Added Support for NVMe/TCP,Nilesh Thathagar,nilesh.thathagar@dell.com,NileshT,https://review.opendev.org/c/openstack/cinder/+/924902
+Adds missing nvme package in cinder-backup,Felipe Figueroa Vergara,ffigueroa@whitestack.com,felipeafv,https://review.opendev.org/c/openstack/kolla/+/936191
+Add designate-manage pool scenario tests,Omer Schwartz,oschwart@redhat.com,oschwart,https://review.opendev.org/c/openstack/designate-tempest-plugin/+/920653
+Followup: Ensure devuser-created dir has sane perms,Jay Faulkner,jay@jvf.cc,JayF,https://review.opendev.org/c/openstack/diskimage-builder/+/936206
+sq: modify is_sha256 check and change tests,ASHWIN A NAIR,nairashwin952013@gmail.com,indianwhocodes,https://review.opendev.org/c/openstack/swift/+/933468
+Add nfs_versions option for NFS protocol version selection,Liron Kuchlani,lkuchlan@redhat.com,lkuchlan,https://review.opendev.org/c/openstack/manila-tempest-plugin/+/934540
+Fix missing ironic-inspector-status when GLOBAL_VENV is True,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/ironic-inspector/+/935363
+Add patch signing to the pipeline,Dostoievski Albino Batista,dostoievski.albinobatista@windriver.com,dalbinob,https://review.opendev.org/c/starlingx/jenkins-pipelines/+/936207
+dedup reboot request in redfish bios path,Doug Goldstein,cardoe@cardoe.com,cardoe,https://review.opendev.org/c/openstack/ironic/+/933020
+WIP: failing tests for fake/real account resp,Clay Gerrard,clay.gerrard@gmail.com,clay-gerrard,https://review.opendev.org/c/openstack/swift/+/936193
+Retire more backups on the vexxhost backup server,Clark Boylan,cboylan@sapwetik.org,cboylan,https://review.opendev.org/c/opendev/system-config/+/936203
+Remove --db-sb-addr and --db-nb-addr from ovn-ctl,yosef,flaslnm@gmail.com,theYosal,https://review.opendev.org/c/openstack/kolla-ansible/+/935467
+Remove an unncessary LOG,norman shen,yshxxsjt715@gmail.com,ushen,https://review.opendev.org/c/openstack/nova/+/912661
+s3api: Add support for additional checksums,Tim Burke,tburke@nvidia.com,tburke,https://review.opendev.org/c/openstack/swift/+/909801
+Skip grenade job for doc update,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/oslo.log/+/936083
+Implement HTTPListener and HTTPClient and add OpenAPI specs,Xiang Wang,xiang.wang@lycorp.co.jp,xiang-roger-wang,https://review.opendev.org/c/openstack/oslo.messaging/+/915056
+Use ceph mirror in CI jobs,Jonathan Rosser,jonathan.rosser@rd.bbc.co.uk,jrosser,https://review.opendev.org/c/openstack/openstack-ansible/+/923777
+Implement ConsulOperator as a service broker to support HTTP Driver,Xiang Wang,xiang.wang@lycorp.co.jp,xiang-roger-wang,https://review.opendev.org/c/openstack/oslo.messaging/+/912499
+Add HTTP driver to oslo.messaging.drivers,Xiang Wang,xiang.wang@lycorp.co.jp,xiang-roger-wang,https://review.opendev.org/c/openstack/oslo.messaging/+/914840
+Add multipool scenario tests,Omer Schwartz,oschwart@redhat.com,oschwart,https://review.opendev.org/c/openstack/designate-tempest-plugin/+/927419
+Add openbao helm constants to sysinv,Tae Park,Tae.Park@windriver.com,tpark,https://review.opendev.org/c/starlingx/config/+/935172
+Ensure that first/last host detection is deterministic,Dmitriy Rabotyagov,noonedeadpunk@gmail.com,noonedeadpunk,https://review.opendev.org/c/openstack/openstack-ansible-os_manila/+/924633
+Upgrade gitea to 1.22.4,Clark Boylan,cboylan@sapwetik.org,cboylan,https://review.opendev.org/c/opendev/system-config/+/936198
+Avoid double quotes in HAProxy configuration,Pierre Riteau,pierre@stackhpc.com,priteau,https://review.opendev.org/c/openstack/kolla-ansible/+/936139
+Quickstart guide - remove Ansible dependency,Jakub Darmach,jakub@stackhpc.com,darmach,https://review.opendev.org/c/openstack/kolla-ansible/+/936127
+Enables override of Octavia notification topics,Antony Messerli,antony@mes.ser.li,antonym,https://review.opendev.org/c/openstack/kolla-ansible/+/934827
+Add spec for NFS-Ganesha extension in OVN Agent,Amir Nikpour,amnik.free@gmail.com,amnik,https://review.opendev.org/c/openstack/neutron-specs/+/936063
+Update gate jobs as per the 2025.1 cycle testing runtime,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/watcher/+/932963
+DNM force mm3 failure to hold the node,Clark Boylan,cboylan@sapwetik.org,cboylan,https://review.opendev.org/c/opendev/system-config/+/855292
+Add periodic task that detects down services,Pavlo Shchelokovskyy,pshchelokovskyy@mirantis.com,pshchelo,https://review.opendev.org/c/openstack/manila/+/936163
+OCI Container Registry Image Source,Julia Kreger,juliaashleykreger@gmail.com,jkreger,https://review.opendev.org/c/openstack/ironic-specs/+/933612
+Export tempest Subunit & Junit reports,masterpe,michiel@piscaer.com,masterpe,https://review.opendev.org/c/openstack/openstack-helm/+/934529
+Deprecate `volume_image_dep_tests`,Maxim Sava,msava@redhat.com,msava@redhat.com,https://review.opendev.org/c/openstack/cinder-tempest-plugin/+/922710
+set haproxy for cyborg module,Sven Kieske,kieske@osism.tech,skieske,https://review.opendev.org/c/openstack/kolla-ansible/+/936153
+Remove default override for oslo.policy config options,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/ironic-inspector/+/934586
+Allow clean service shutdown,Pavlo Shchelokovskyy,pshchelokovskyy@mirantis.com,pshchelo,https://review.opendev.org/c/openstack/manila/+/936164
+api: Add response body schemas for assisted volume snapshots APIs,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/nova/+/924588
+WIP - multiple strategies of the same type,Raphael Lima,Raphael.Lima@windriver.com,rlima,https://review.opendev.org/c/starlingx/distcloud/+/936187
+WIP - enable multiple strategies,Raphael Lima,Raphael.Lima@windriver.com,rlima,https://review.opendev.org/c/starlingx/distcloud/+/936189
+WIP - delete subcloud strategy on completion,Raphael Lima,Raphael.Lima@windriver.com,rlima,https://review.opendev.org/c/starlingx/distcloud/+/936188
+"Added NDFC helper functions, fixed pep8 errors",Pradeep Krish,kprad1@yahoo.com,padkrish,https://review.opendev.org/c/x/networking-cisco/+/936183
+Transition pre 2023.1 watcher deliverables to eol,sean mooney,smooney@redhat.com,sean-k-mooney,https://review.opendev.org/c/openstack/releases/+/935983
+Implement TLS for Redis,Mat├║┼í Jen─ìa,matus.jenca@dnation.cloud,matusjenca,https://review.opendev.org/c/openstack/kolla-ansible/+/909188
+[stable-only] Drop Neutron grenade jobs in the CI,Rodolfo Alonso,ralonsoh@redhat.com,rodolfo-alonso-hernandez,https://review.opendev.org/c/openstack/devstack/+/936126
+"Add local network config plugin for offline network configuration, and fix error with setting static IP addresses on interfaces.",James Coleman,GRMrGecko@gmail.com,GRMrGecko,https://review.opendev.org/c/x/cloudbase-init/+/936177
+Use common helper to generate uwsgi setting,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/zaqar/+/936110
+api: Add response body schemas for floating IP pool APIs,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/nova/+/924596
+Remove all eventlet Neutron API jobs,Rodolfo Alonso,ralonsoh@redhat.com,rodolfo-alonso-hernandez,https://review.opendev.org/c/openstack/neutron-tempest-plugin/+/935627
+Adding app-openbao repo to the manifest,Tae Park,Tae.Park@windriver.com,tpark,https://review.opendev.org/c/starlingx/manifest/+/935166
+[OVN] Add a creation wait event for the PG drop tests,Rodolfo Alonso,ralonsoh@redhat.com,rodolfo-alonso-hernandez,https://review.opendev.org/c/openstack/neutron/+/936011
+Bump hacking,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/trove/+/935425
+Allow Multiple Ratings for the same Metric on Prometheus,Corentin ARNOULD,corentin@keepcalm.dev,carnould,https://review.opendev.org/c/openstack/cloudkitty/+/921339
+Add ensure shares admin docs,Carlos Eduardo,ces.eduardo98@gmail.com,silvacarlos,https://review.opendev.org/c/openstack/manila/+/929972
+Configure systemd CPUShares for Kubernetes bootstrap,Jim Gauld,James.Gauld@windriver.com,jgauld,https://review.opendev.org/c/starlingx/ansible-playbooks/+/932558
+api: Add response body schemas for flavor extra specs APIs,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/nova/+/924594
+Bump hacking,Takashi Kajinami,kajinamit@oss.nttdata.com,kajinamit,https://review.opendev.org/c/openstack/barbican-tempest-plugin/+/935437
+Transition zed-eom branches to EOL,Dr. Jens Harbott,frickler@offenerstapel.de,jrosenboom,https://review.opendev.org/c/openstack/releases/+/935041
+Transition yoga-eom branches to EOL,Dr. Jens Harbott,frickler@offenerstapel.de,jrosenboom,https://review.opendev.org/c/openstack/releases/+/935376
+Transition xena-eom branches to EOL,Dr. Jens Harbott,frickler@offenerstapel.de,jrosenboom,https://review.opendev.org/c/openstack/releases/+/935375
+Transition wallaby-eom branches to EOL,Dr. Jens Harbott,frickler@offenerstapel.de,jrosenboom,https://review.opendev.org/c/openstack/releases/+/935374
+reno: Update master for unmaintained/2023.1,OpenStack Release Bot,infra-root@openstack.org,release,https://review.opendev.org/c/openstack/horizon/+/936161
+[stable/2023.1-only] Fix dummy driver jobs,Goutham Pacha Ravi,gouthampravi@gmail.com,gouthamr,https://review.opendev.org/c/openstack/manila/+/934697
+api: Add response body schemas for flavor access API,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/nova/+/924593
+[OVN] QoS max and min rules should be defined in LSP for phynet ports,Rodolfo Alonso,ralonsoh@redhat.com,rodolfo-alonso-hernandez,https://review.opendev.org/c/openstack/neutron/+/934418
+Support case-agnostic k8s resource policy names,Saba Touheed Maqbool Ahmed Mujawar,sabatouheed.mujawar@windriver.com,smujawar,https://review.opendev.org/c/starlingx/config/+/935045
+api: Add response body schemas for availability zone APIs,Stephen Finucane,stephenfin@redhat.com,sfinucan,https://review.opendev.org/c/openstack/nova/+/924590
+Sync requirements files,James Page,james.page@canonical.com,james-page,https://review.opendev.org/c/openstack/charm-watcher/+/936156
+WIP: Move pre tasks into roles,Michal Nasiadka,mnasiadka@gmail.com,mnasiadka,https://review.opendev.org/c/openstack/kolla/+/920590
+Add Redis as caching backend for Heat,Mat├║┼í Jen─ìa,matus.jenca@dnation.cloud,matusjenca,https://review.opendev.org/c/openstack/kolla-ansible/+/909224
+Try not to return loopback addresses with kolla_address in ipv4,Bertrand Lanson,bertrand.lanson@protonmail.com,lanson,https://review.opendev.org/c/openstack/kolla-ansible/+/933835
+Improve grafana dashboard deployment,Jan Horstmann,horstmann@osism.tech,jhorstmann,https://review.opendev.org/c/openstack/kolla-ansible/+/921097
+Update octavia-tempest-plugin configref,Michael Johnson,johnsomor@gmail.com,johnsom,https://review.opendev.org/c/openstack/octavia-tempest-plugin/+/934392
+Update hacking,Michael Johnson,johnsomor@gmail.com,johnsom,https://review.opendev.org/c/openstack/octavia-tempest-plugin/+/934390
+Move to high level client in DockerWorker,Ivan Halomi,ivan.halomi@gmail.com,ivanhalomi,https://review.opendev.org/c/openstack/kolla-ansible/+/908295
+"Adding lsb, offset to curves and maps",Oskar Lindgren,oskarxvi@gmail.com,olindgren,https://review.opendev.org/c/volvocars/powertrain-build/+/935637
+Remove stable/2023.1 job from master gate,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/cloudkitty-tempest-plugin/+/934271
+Enable ML2/OVN by default,Rafal Lewandowski,rafal@stackhpc.com,rav,https://review.opendev.org/c/openstack/kolla-ansible/+/904959
+VIM sw-deploy REST API command and output updates,Vanathi Selvaraju,Vanathi.Selvaraju@windriver.com,vselvara,https://review.opendev.org/c/starlingx/nfv/+/936026
+Tell skyline-console to use the correct healthcheck,Jay Jahns,jayjahns@gmail.com,jayjahns,https://review.opendev.org/c/openstack/kolla-ansible/+/936075
+Able to support the prestaging of a current or future N release for an N-1 subcloud,Cristian,cristian.mondo@windriver.com,cmondo,https://review.opendev.org/c/starlingx/ansible-playbooks/+/936049
+Give ironic-inspector system scope ``all``,Sven Kieske,kieske@osism.tech,skieske,https://review.opendev.org/c/openstack/kolla-ansible/+/936125
+Update .gitreview for unmaintained/2023.1,OpenStack Release Bot,infra-root@openstack.org,release,https://review.opendev.org/c/openstack/glance/+/936131
+[Docs] Pin kolla-anisble to the same version of quickstart guide,Chason Chan,chason.chan@foxmail.com,chenxing,https://review.opendev.org/c/openstack/kolla-ansible/+/707896
+Update gate jobs as per the 2025.1 cycle testing runtime,Ghanshyam,gmann@ghanshyammann.com,ghanshyam,https://review.opendev.org/c/openstack/blazar-tempest-plugin/+/932947
