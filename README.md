@@ -13,3 +13,7 @@ P1. Code Check-in Clustering:
 
 ## Method
 Used KMeans clustering to categorize code check-ins from OpenDev into architectural attributes like performance and usability. Pandas and numpy were used to statistically analyze the clustering output and matplotlib was used to visualize percentage distribution. 
+
+## Results
+1. See [CodeClusters.py](CodeClusters.py) and [figs folder](figs) for general code check-ins data visualization and analysis
+2. See [SecurityClusters.py](SecurityClusters.py) and [security-figs](security-figs) folder for security-specific code check-ins data visualization
